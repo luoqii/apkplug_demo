@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin-features
+	Bundle-Name="TestBundle" 
+	Bundle-SymbolicName="com.apkplug.test.bundle"	
+	Bundle-Version="0.0.1"
+	date="2014.8.1"
+	provider-name="Apkplug" 
+	provider-url="" 
+	Bundle-Activator="com.apkplug.test.bundle.SimpleBundle"
+	Bundle-Activity="com.apkplug.test.bundle.MainActivity"
+	>
+</plugin-features>
